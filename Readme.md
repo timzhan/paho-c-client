@@ -11,7 +11,7 @@ Azure IoT Hub support MQTT direct connection for those constrained devices. Micr
 Here is my development environment. You may use 
 - Dev PC: Intel NUC. You may use any PC or even a VM.
 - OS: **Ubuntu 20.04 LTS**. Any Linux distros should work.
-- Azure susbscription: **required**.
+- Azure subscription: **required**.
 - Azure IoT Hub: **required**.
 - Github access: **required**.
 - Text editor: You may use any text editor like nano, gedit or vi.
